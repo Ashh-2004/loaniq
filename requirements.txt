@@ -1,0 +1,16 @@
+# LoanIQ — Loan Management System
+# Core app
+streamlit==1.58.0
+pandas==2.2.3
+plotly==5.24.1
+
+# Database
+mysql-connector-python==9.7.0
+
+# Authentication
+bcrypt==4.2.1
+streamlit-authenticator==0.4.2
+
+# Environment & utilities
+python-dotenv==1.2.2
+faker==40.23.0
